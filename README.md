@@ -1,4 +1,4 @@
-# ✨ Hi, I am eX
+# ✨ Hi, It's eX
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=eX&color=blue"/>

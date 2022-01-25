@@ -16,7 +16,7 @@
 <div align="center">
     <a href="https://discord.com/users/924762259308302446" target="_blank"><img src="https://img.shields.io/badge/-eX-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
     <a href="https://github.com/exshu" target="_blank"><img src="https://img.shields.io/badge/-eX-black?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://discord.gg/gooseducktr" target="_blank"><img src="https://img.shields.io/badge/-gooseducktr%201993-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
+    <a href="https://discord.gg/gooseducktr" target="_blank"><img src="https://img.shields.io/badge/-gooseducktr%20eX-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
 </div>
 
 ## 💻 Languages I Use And Learn

@@ -5,7 +5,7 @@
 </div>  
 
 
-   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/924762259308302446?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/147439950294548481)
+   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/147439950294548481?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/147439950294548481)
 
 
 
@@ -14,7 +14,7 @@
  ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/924762259308302446" target="_blank"><img src="https://img.shields.io/badge/-eX-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
+    <a href="https://discord.com/users/147439950294548481" target="_blank"><img src="https://img.shields.io/badge/-eX-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
     <a href="https://github.com/exshy" target="_blank"><img src="https://img.shields.io/badge/-eX-black?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://discord.gg/resital" target="_blank"><img src="https://img.shields.io/badge/-resital%20eX-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
 </div>
